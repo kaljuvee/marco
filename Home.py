@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Financial Calculator Suite")
+st.title("Marco - Marketplace Lending (Demo)")
 
 st.markdown("""
 Welcome to our comprehensive financial calculator suite! This application provides various tools 
